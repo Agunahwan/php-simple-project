@@ -1,0 +1,45 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm
+.idea/
+
+# Laravel
+/.env
+/.env.*
+/storage/*.key
+/public/hot
+/public/storage
+/node_modules
+
+# Nginx
+/nginx/*.log
+/nginx/*.pid
+
+# Vagrant
+.vagrant/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.log.*
+
+# Backup Files
+*.bak
+*.swp
+*.swo
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore scanner work files
+.scannerwork/
